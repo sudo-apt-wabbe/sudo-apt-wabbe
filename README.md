@@ -1,4 +1,4 @@
-[![MasterHead](<a href="https://ibb.co/MxjZsf3M"><img src="https://i.ibb.co/0RWmcKdh/mousepad.png" alt="mousepad" border="0" /></a>)](https://github.com/sudo-apt-wabbe)
+(<a href="https://ibb.co/MxjZsf3M"><img src="https://i.ibb.co/0RWmcKdh/mousepad.png" alt="mousepad" border="0" /></a>)](https://github.com/sudo-apt-wabbe)
  <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
 <h3 align="left">contact:</h3>
 <p align="left">
