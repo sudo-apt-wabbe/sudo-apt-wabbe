@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/1200x/d4/8f/59/d48f5915988984a40369ad0ce7241e72.jpg)](https://github.com/sudo-apt-wabbe)
+[![MasterHead](https://ibb.co/MxjZsf3M)](https://github.com/sudo-apt-wabbe)
  <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
 <h3 align="left">contact:</h3>
 <p align="left">
