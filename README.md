@@ -9,7 +9,7 @@
 
 ```python
 wabbe = {
-    "name": "Walber Lima",
+    "name": "Walber",
     "role": "Student Developer",
     "focus": [
         "Automation",
@@ -53,3 +53,7 @@ Currently, I'm focused on improving my programming skills, expanding my portfoli
 ## Technologies
 
 Python, HTML, CSS, JavaScript, C++, Git, GitHub, GameMaker.
+
+</td>
+</tr>
+</table>
