@@ -37,10 +37,7 @@ wabbe = {
     }
 }
 ```
-
 </td>
-</tr>
-</table>
 
 ## About Me
 
