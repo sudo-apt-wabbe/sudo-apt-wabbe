@@ -1,12 +1,8 @@
 <table>
 <tr>
-<td width="35%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-<img alt="Wired" width="300" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
-
-<br><br>
-
-<img alt="Pixel gif" width="300" src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif">
+<img alt="HEHEHEHEE" width="300" src="https://i.pinimg.com/736x/f5/6d/e9/f56de960015c559bb6bd7cb0e3454877.jpg">
 
 </td>
 <td width="65%" valign="top">
