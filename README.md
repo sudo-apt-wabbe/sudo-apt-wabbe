@@ -1,6 +1,6 @@
 <table>
 
-<td width="60%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 <img alt="HEHEHEHEE" width="330" src="https://i.pinimg.com/736x/73/23/2d/73232db032ae6906004173ed074e31b5.jpg">
 
@@ -37,7 +37,7 @@ wabbe = {
     }
 }
 ```
-
+<td width="65%" valign="bottom">
 
 ## About Me
 
