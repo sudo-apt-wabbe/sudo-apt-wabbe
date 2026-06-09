@@ -43,14 +43,9 @@ Currently, I'm focused on improving my programming skills, expanding my portfoli
 
 ## Technologies
 
-* Python
-* HTML
-* CSS
-* JavaScript
-* C++
-* Git
-* GitHub
-* GameMaker
+* Python   * HTML   * JavaScript   * C++
+
+* Git      * GitHub                * GameMaker
 
 ## Current Goal
 
