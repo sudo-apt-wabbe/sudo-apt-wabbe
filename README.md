@@ -43,4 +43,4 @@ I enjoy building practical projects, exploring new ideas, and transforming rando
 
 ## Technologies
 
-Python, HTML, CSS, JavaScript, C++, Git, GitHub, GameMaker.
+Python, HTML, CSS, JavaScript, C++, GitHub, GameMaker.
