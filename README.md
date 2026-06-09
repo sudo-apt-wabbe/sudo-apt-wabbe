@@ -2,7 +2,7 @@
 <tr>
 <td width="45%" align="center" valign="top">
 
-<img alt="HEHEHEHEE" width="220" src="https://i.pinimg.com/736x/73/23/2d/73232db032ae6906004173ed074e31b5.jpg">
+<img alt="HEHEHEHEE" width="220" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
 
 </td>
 
