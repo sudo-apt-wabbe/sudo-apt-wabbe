@@ -2,7 +2,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img alt="HEHEHEHEE" width="300" src="https://i.pinimg.com/736x/f5/6d/e9/f56de960015c559bb6bd7cb0e3454877.jpg">
+<img alt="HEHEHEHEE" width="350" src="https://i.pinimg.com/736x/f5/6d/e9/f56de960015c559bb6bd7cb0e3454877.jpg">
 
 </td>
 <td width="65%" valign="top">
