@@ -3,6 +3,7 @@
 <img align="left" width="300" src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif">
 
 <br clear="right"/>
+
 ```python
 wabbe = {
     "name": "Walber Lima",
