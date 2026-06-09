@@ -6,7 +6,7 @@
 
 </td>
 
-<td width="78%" valign="top">
+<td width="88%" valign="top">
 
 <pre>
 wabbe = {
