@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <img alt="HEHEHEHEE" width="400" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
 
