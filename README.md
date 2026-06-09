@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="35%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
-<img alt="HEHEHEHEE" width="600" src="https://i.pinimg.com/736x/2e/a5/96/2ea5964943dae91051a34520663cb44d.jpg">
+<img alt="HEHEHEHEE" width="700" src="https://i.pinimg.com/736x/2e/a5/96/2ea5964943dae91051a34520663cb44d.jpg">
 
 </td>
 
