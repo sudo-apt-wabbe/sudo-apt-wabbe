@@ -1,10 +1,15 @@
-<img align="left" alt="Wired" width="300" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
 
-<br clear="left"/>
+<img alt="Wired" width="300" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
 
-<img align="down" width="300" src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif">
+<br><br>
 
-<br clear="right"/>
+<img alt="Pixel gif" width="300" src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif">
+
+</td>
+<td width="65%" valign="top">
 
 ```python
 wabbe = {
@@ -36,6 +41,10 @@ wabbe = {
     }
 }
 ```
+
+</td>
+</tr>
+</table>
 
 ## About Me
 
