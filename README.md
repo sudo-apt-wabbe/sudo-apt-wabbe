@@ -8,7 +8,9 @@
 <td width="65%" valign="top">
 
 <pre>
+
 ```python
+
 wabbe = {
     "name": "Walber",
     "role": "Student Developer",
@@ -39,7 +41,7 @@ wabbe = {
 }
     
 ```
-<pre>
+</pre>
     
 ## About Me
 
