@@ -7,6 +7,7 @@
 </td>
 <td width="65%" valign="top">
 
+<pre>
 ```python
 wabbe = {
     "name": "Walber",
@@ -36,9 +37,10 @@ wabbe = {
         "email": "walbbeerr@gmail.com"
     }
 }
+    
 ```
-<td width="65%" valign="bottom">
-
+<pre>
+    
 ## About Me
 
 Student -> 20yo -> Brazilian.
