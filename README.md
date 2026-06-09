@@ -1,6 +1,6 @@
 <img align="left" alt="Wired" width="400" src="https://cdnb.artstation.com/p/assets/images/images/062/956/269/original/wei39-navi-chib1i-export.gif?1684344347">
 
-<br clear="right"/>
+<br clear="right" width="600"/>
 
 ```python
 wabbe = {
