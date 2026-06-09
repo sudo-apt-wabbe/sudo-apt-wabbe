@@ -35,7 +35,7 @@ wabbe = {
 
 ## About Me
 
-Student -> 20yo -> brazilian.
+Student -> 20yo -> Brazilian.
 
 I enjoy building practical projects, exploring new ideas, and transforming random concepts into real applications. Whether it's a desktop utility, a game prototype, or a web interface, I like creating things that are both functional and enjoyable to use.
 
@@ -43,4 +43,4 @@ Currently, I'm focused on improving my programming skills, expanding my portfoli
 
 ## Technologies
 
-Python, HTML, JavaScript, C++, GameMaker.
+Python, HTML, CSS, JavaScript, C++, Git, GitHub, GameMaker.
