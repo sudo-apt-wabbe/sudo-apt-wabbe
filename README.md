@@ -37,8 +37,6 @@ wabbe = {
 }
 ```
 
-<br clear="right"/>
-
 ## About Me
 
 Student -> 20yo -> Brazilian.
