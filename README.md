@@ -35,7 +35,7 @@ wabbe = {
 
 ## About Me
 
-I'm a Brazilian software development student with a strong interest in automation, game development, and frontend technologies.
+Student -> 20yo -> brazilian.
 
 I enjoy building practical projects, exploring new ideas, and transforming random concepts into real applications. Whether it's a desktop utility, a game prototype, or a web interface, I like creating things that are both functional and enjoyable to use.
 
@@ -43,15 +43,4 @@ Currently, I'm focused on improving my programming skills, expanding my portfoli
 
 ## Technologies
 
-* Python   * HTML   * JavaScript   * C++
-
-* Git      * GitHub                * GameMaker
-
-## Current Goal
-
-```python
-while learning:
-    build_projects()
-    improve_skills()
-    create_cool_stuff()
-```
+Python, HTML, JavaScript, C++, GameMaker.
