@@ -25,14 +25,6 @@ wabbe = {
         "GameMaker"
     ],
 
-    "current_projects": {
-        "Tales_of_SG": {
-            "type": "RPG Game",
-            "status": "In Development",
-            "description": "The best worst game ever made."
-        }
-    },
-
     "contact": {
         "email": "walbbeerr@gmail.com"
     }
