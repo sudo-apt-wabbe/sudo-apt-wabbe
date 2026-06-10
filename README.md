@@ -41,7 +41,7 @@ Student → Born in 2006 → Brazilian (samba, football, Pelé, caipirinha!).
 
 
 I enjoy transforming random ideas into real projects, even when they start as a joke and somehow turn into actual code.
-Even if it was initially just a joke, I dedicate myself to turning the idea into a worthy project.=
+Even if it was initially just a joke, I dedicate myself to turning the idea into a worthy project.
 
 ## Technologies
 
