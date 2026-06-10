@@ -37,9 +37,11 @@ wabbe = {
 
 ## About Me
 
-Student → 20yo → Brazilian.
+Student → Born in 2006 → Brazilian (samba, football, Pelé, caipirinha!).
 
-I enjoy building practical projects, exploring new ideas, and transforming random concepts into real applications. Whether it's a desktop utility, a game prototype, or a web interface, I like creating things that are both functional and enjoyable to use.
+
+I enjoy transforming random ideas into real projects, even when they start as a joke and somehow turn into actual code.
+Even if it was initially just a joke, I dedicate myself to turning the idea into a worthy project.=
 
 ## Technologies
 
